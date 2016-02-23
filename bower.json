@@ -1,7 +1,7 @@
 {
-  "name": "bind-first",
+  "name": "kztime-bind-first",
   "version": "0.2.3",
-  "homepage": "https://github.com/private-face/jquery.bind-first",
+  "homepage": "https://github.com/kztime/jquery.kztime.bind-first",
   "authors": [
     "Vladimir Zhuravlev <private.face@gmail.com>"
   ],
